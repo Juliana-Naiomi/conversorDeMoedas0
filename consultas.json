@@ -1,0 +1,13 @@
+{
+  "baseCode": "BRL",
+  "targetCode": "USD",
+  "valor": 100.0,
+  "resultado": "16.24"
+}
+
+{
+  "baseCode": "BRL",
+  "targetCode": "BOB",
+  "valor": 100.0,
+  "resultado": "111.73"
+}
