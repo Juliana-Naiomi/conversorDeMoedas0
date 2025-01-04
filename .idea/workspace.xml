@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d221734-6cd7-475e-8a05-32ccef3dc83b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conversorDeMoedas0.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Consulta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConsultaMoeda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conversao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ParesDeMoedas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
-    </list>
+    <list default="true" id="7d221734-6cd7-475e-8a05-32ccef3dc83b" name="Changes" comment="Commit do Conversor de moedas." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +42,12 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "vcs.Git"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
   }
 }]]></component>
   <component name="RunManager">
@@ -81,7 +73,20 @@
       <option name="presentableId" value="Default" />
       <updated>1735957016258</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit do Conversor de moedas.">
+      <option name="closed" value="true" />
+      <created>1735966898780</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735966898780</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit do Conversor de moedas." />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit do Conversor de moedas." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
